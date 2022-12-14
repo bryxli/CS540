@@ -1,0 +1,6 @@
+1. get_data_loader: train dataset passed +5 pts; test dataset passed +5 pts; train dataset passed +5 pts; test dataset passed +5 pts; 
+2. build_model: correct model +5 pts; correct flatten dim +5 pts; correct first activation +5 pts; correct total model len +5 pts; 
+3. train_model: passed +5 pts; passed +5 pts; passed +5 pts; passed +5 pts; correct accuracy +5 pts; correct loss +5 pts; 
+4. evaluate_model: incorrect loss or accuracy, expecting 0.4362, 84.38%, (0/5) pts; 
+5. predict_label: three predictions returned +2 pts; predict label output format correct +3 pts; correct order +2 pts; is probability (1/1 pts); is probability (1/1 pts); is probability (1/1 pts); wrong predicted label, (0/5) pts; wrong predicted label, (0/5) pts; wrong predicted label, (0/5) pts; correct predicted label, +(5/5) pts; 
+Total: 80/100

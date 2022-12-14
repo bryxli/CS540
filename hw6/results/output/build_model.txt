@@ -1,0 +1,3 @@
+<class 'torch.nn.modules.container.Sequential'>
+784
+6

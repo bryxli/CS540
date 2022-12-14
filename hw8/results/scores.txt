@@ -1,0 +1,22 @@
+Tests HW8:
+print_succ_1.txt: output mismatch 
+print_succ_2.txt: output mismatch 
+print_succ_3.txt: output mismatch 
+print_succ_4.txt: output mismatch 
+print_succ_5.txt: output mismatch 
+print_succ_6.txt: test case passed: 4 points
+print_succ_7.txt: test case passed: 4 points
+print_succ_8.txt: output mismatch 
+print_succ_9.txt: output mismatch 
+print_succ_10.txt: test case passed: 4 points
+solve_1.txt: output mismatch 
+solve_2.txt: timeout 
+solve_3.txt: output mismatch 
+solve_4.txt: timeout 
+solve_5.txt: timeout 
+solve_6.txt: output mismatch 
+solve_7.txt: timeout 
+solve_8.txt: timeout 
+solve_9.txt: output mismatch 
+solve_10.txt: timeout 
+Scores: 12

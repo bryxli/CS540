@@ -1,0 +1,15 @@
+T-shirt/top: 88.81%
+Trouser: 8.29%
+Pullover: 2.69%
+T-shirt/top: 99.0%
+Trouser: 0.88%
+Pullover: 0.07%
+T-shirt/top: 82.41%
+Trouser: 6.15%
+Pullover: 5.24%
+T-shirt/top: 99.83%
+Trouser: 0.06%
+Pullover: 0.04%
+T-shirt/top: 98.25%
+Trouser: 1.64%
+Pullover: 0.09%

@@ -1,0 +1,5 @@
+Train Epoch: 0 Accuracy: 59157/60000(98.6%) Loss: 0.898
+Train Epoch: 1 Accuracy: 59516/60000(99.19%) Loss: 0.515
+Train Epoch: 2 Accuracy: 59568/60000(99.28%) Loss: 0.46
+Train Epoch: 3 Accuracy: 59597/60000(99.33%) Loss: 0.429
+Train Epoch: 4 Accuracy: 59619/60000(99.37%) Loss: 0.406
