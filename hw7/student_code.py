@@ -33,22 +33,23 @@ class LeNet(nn.Module):
         x = self.a(x)
         x = self.b(x)
         x = self.c(x)
-        shape_dict[1] = list(x)
+        shape_dict[1] = x.tolist() # putting the intermediate tensors directly into the dictionary rather than their shapes
         x = self.d(x)
         x = self.e(x)
         x = self.f(x)
-        shape_dict[2] = list(x)
+        shape_dict[2] = x.tolist()
         x = self.g(x)
-        shape_dict[3] = list(x)
+        shape_dict[3] = x.tolist()
         x = self.h(x)
         x = self.i(x)
-        shape_dict[4] = list(x)
+        shape_dict[4] = x.tolist()
         x = self.j(x)
         x = self.k(x)
-        shape_dict[5] = list(x)
+        shape_dict[5] = x.tolist()
         x = self.i(x)
-        shape_dict[6] = list(x)
+        shape_dict[6] = x.tolist()
         out = x
+        print(shape_dict)
         return out, shape_dict
 
 
