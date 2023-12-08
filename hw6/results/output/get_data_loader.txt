@@ -1,5 +1,0 @@
-torch.Size([60000, 28, 28])
-torch.Size([10000, 28, 28])
-torch.Size([10000])
-7
-5

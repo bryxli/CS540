@@ -1,5 +1,0 @@
-Output:
-(9, 4)
-
-Solution:
-(9, 4)

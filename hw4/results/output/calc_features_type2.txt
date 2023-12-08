@@ -1,5 +1,0 @@
-Output:
-<class 'numpy.int64'>
-
-Solution:
-<class 'numpy.int64'>
